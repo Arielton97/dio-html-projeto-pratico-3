@@ -1,5 +1,5 @@
 
-![Liga dos Campeões da UEFA]([https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_UEFA_Champions_League.png](https://th.bing.com/th/id/R.9630978dfb6af19f610f4d0b4439c96c?rik=HaersAGlSNRDJA&pid=ImgRaw&r=0))
+![Liga dos Campeões da UEFA](https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_UEFA_Champions_League.png](https://th.bing.com/th/id/R.9630978dfb6af19f610f4d0b4439c96c?rik=HaersAGlSNRDJA&pid=ImgRaw&r=0)
 
 # DIO - Projeto prático de html - 3
 
