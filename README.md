@@ -1,6 +1,5 @@
 
-![Liga dos Campeões da UEFA](https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_UEFA_Champions_League.png](https://th.bing.com/th/id/R.9630978dfb6af19f610f4d0b4439c96c?rik=HaersAGlSNRDJA&pid=ImgRaw&r=0)
-
+![Liga dos Campeões da UEFA](https://inspirationseek.com/wp-content/uploads/2014/05/UEFA-Champions-League-Wallpaper-Logo.jpg)
 # DIO - Projeto prático de html - 3
 
 Este projeto sobre "Recriando o Wikipedia com Layout Moderno" foi feito a partir do módulo HTML II da [Carreira de Front-end](https://www.dio.me/careers/front-end) - [Formação HTML](https://www.dio.me/curso-html).
