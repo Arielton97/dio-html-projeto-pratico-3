@@ -1,0 +1,27 @@
+/* Não entendo de CSS, oque eu sei até a data de hoje, é copiando de elementos de códigos alheios */
+
+header nav {
+    text-align: right;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+menu {
+    text-align: right;
+}
+
+aside {
+    text-align: left;
+}
+
+main {
+    text-align: justify;
+}
+
+.img-right {
+    position: relative;
+
+}
